@@ -16,8 +16,11 @@
 }
 
 p{
-    margin: 0;
+   margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+}
+.copy{
+    color: blue;
 }
 .validator{
     
