@@ -1,0 +1,20 @@
+.image2{
+    height: 200px;
+    border-radius: 100px;
+}
+.lab{
+    color: rgb(98, 33, 8);
+}
+.home{
+    color: blue;
+}
+
+p{
+    margin: 0;
+}
+.validator{
+    display: inline-block;
+    align-items: end;
+    margin-left: 600px;
+    margin-bottom: 20px;
+}
